@@ -1,0 +1,48 @@
+body {
+  background-color: #333333;
+}
+
+h1 {
+  color: white;
+  margin-left: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+}
+
+.p1 {
+  color: white;
+  font-weight: 900;
+  font-size: medium;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 800px;
+  word-wrap: break-word;
+  font-family: "Times New Roman", Times, serif;
+  
+}
+.image {
+  content:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4RE_8vMZx0l1Yi5ZhF5fB-TgkOwi_Rse0UUBUxgTEfcafID7dau0TErLkMJT1f3Qj3G0:https://petapixel.com/assets/uploads/2013/09/childlabor6.jpg&usqp=CAU);
+  position: relative;
+  left: 925px;
+  width: 400px;
+}
+
+.h2 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.p2 {
+  color: white;
+  font-weight: 900;
+  font-size: medium;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 800px;
+  word-wrap: breakword;
+  font-family: "Times New Roman", Times, serif;
+  bottom: 75px;
+  margin-top: -175px;
+}
